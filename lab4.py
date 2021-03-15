@@ -61,6 +61,8 @@ for u in range(0, len(sortedNodes)):
 #sort the result by human sort like 1A comes before 10A
 result.sort(key=alphanum_key)
 # print(result)
+
+# print the result in a new text file
 output = open(sys.argv[2], "w")
 for elem in result:
     output.write(str(elem) +"\n")
