@@ -1,4 +1,4 @@
-# 26020-lab4-S-Compilers
+#  Greedy Graph Coloring
 
 Submission for Compilers .
 A greedy graph coloring algorithms that represent register allocation that the compilers preform made in python
